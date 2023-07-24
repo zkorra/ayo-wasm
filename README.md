@@ -1,1 +1,2 @@
-# rust-wasm
+# ayo-wasm
+Compiling from Rust to WebAssembly
